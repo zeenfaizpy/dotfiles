@@ -1,0 +1,40 @@
+{
+    "json.schemas": [
+        {
+            "name": "vscode-expo-manifest",
+            "url": "file:///Users/mohammadfaizal/Library/Application%20Support/Code/User/globalStorage/bycedric.vscode-expo/manifest-38.0.0.json",
+            "fileMatch": [
+                "app.json",
+                "app.config.json"
+            ]
+        }
+    ],
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Dracula",
+    "workbench.tree.indent": 20,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "python.languageServer": "Microsoft",
+    "editor.rulers": [
+    80,
+    100
+    ],
+    "editor.fontFamily": "Ubuntu Mono derivative Powerline",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/__pycache__": true,
+        "**/.cache": true,
+        "**/.idea": true,
+        "**/.pytest_cache": true,
+        "**/.mypy_cache": true,
+        "**/.venv": true,
+        "**/.coverage": true,
+        "**/*.py[co]": true
+    },
+}
